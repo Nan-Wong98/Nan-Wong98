@@ -36,6 +36,10 @@
 </ul>
 
 ### 📝 Publications
+* ✨ **Equivariant Bayesian Hyperspectral Imaging via Mosaiced and PAN Image Fusion** <br>
+    Renwei Dian, **Nan Wang***, Anjing Guo, Shutao Li <br>
+    **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**, Apr. 2026. <br>
+    [![Paper](https://img.shields.io/badge/Paper-TPAMI_2026-blue)](https://ieeexplore.ieee.org/document/11480451)  [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/Nan-Wong98/Equivariant-Bayesian-variational-inference-framework)
 
 * ✨ **Equivariant High-Resolution Hyperspectral Imaging via Mosaiced and PAN Image Fusion** <br>
     **Nan Wang**, Anjing Guo, Renwei Dian*, Shutao Li <br>

@@ -49,7 +49,7 @@
 * ✨ **Better Image Filter for Pansharpening** <br>
     Anjing Guo, Renwei Dian*, **Nan Wang**, Shutao Li <br>
     **IEEE Transactions on Image Processing (TIP)**, vol. 34, pp. 8171-8184, Dec. 2025. <br>
-    [![Paper](https://img.shields.io/badge/Paper-TIP_2026-blue)](https://ieeexplore.ieee.org/abstract/document/11278494) 
+    [![Paper](https://img.shields.io/badge/Paper-TIP_2025-blue)](https://ieeexplore.ieee.org/abstract/document/11278494) 
 
 * ✨ **Convolution-Embedded Vision Transformer With Elastic Positional Encoding for Pansharpening** <br>
     **Nan Wang**, Xiangjun Meng, Xiangchao Meng*, Feng Shao* <br>

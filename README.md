@@ -36,34 +36,38 @@
 </ul>
 
 ### 📝 Publications
-* ✨ **Semi-Supervised Flow Matching for Mosaiced and Panchromatic Fusion Imaging** <br>
-    Peiming Luo<sup>✝</sup>, **Nan Wang<sup>✝</sup>**, Litong Liu, Jiahan Huang, Chenxu Wu, Renwei Dian*, Junming Hou* <br>
-    **arxiv**, 2026. <br>
-    [![Paper](https://img.shields.io/badge/Paper-arxiv-blue)](https://arxiv.org/abs/2604.20128)
-
 * ✨ **Equivariant Bayesian Hyperspectral Imaging via Mosaiced and PAN Image Fusion** <br>
-    Renwei Dian<sup>✝</sup>, **Nan Wang***, Anjing Guo, Shutao Li <br>
-    **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**, Apr. 2026. <br>
+    Renwei Dian, **Nan Wang***, Anjing Guo, Shutao Li <br>
+    **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**, vol. 48(8), pp. 9966-9981, Apr. 2026. <br>
     [![Paper](https://img.shields.io/badge/Paper-TPAMI_2026-blue)](https://ieeexplore.ieee.org/document/11480451)  [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/Nan-Wong98/Equivariant-Bayesian-variational-inference-framework)
 
 * ✨ **Equivariant High-Resolution Hyperspectral Imaging via Mosaiced and PAN Image Fusion** <br>
-    **Nan Wang<sup>✝</sup>**, Anjing Guo, Renwei Dian*, Shutao Li <br>
+    **Nan Wang**, Anjing Guo, Renwei Dian*, Shutao Li <br>
     **IEEE Transactions on Image Processing (TIP)**, vol. 35, pp. 1246-1260, Jan. 2026. <br>
     [![Paper](https://img.shields.io/badge/Paper-TIP_2026-blue)](https://ieeexplore.ieee.org/abstract/document/11367377)  [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/Nan-Wong98/Equivariant-High-Resolution-Hyperspectral-Imaging-via-Mosaiced-and-PAN-Image-Fusion)
 
-* ✨ **Better Image Filter for Pansharpening** <br>
-    Anjing Guo<sup>✝</sup>, Renwei Dian*, **Nan Wang**, Shutao Li <br>
-    **IEEE Transactions on Image Processing (TIP)**, vol. 34, pp. 8171-8184, Dec. 2025. <br>
-    [![Paper](https://img.shields.io/badge/Paper-TIP_2025-blue)](https://ieeexplore.ieee.org/abstract/document/11278494) 
+* ✨ **Physics-Informed Degradation Kernel Estimationfor Mosaic-Based Hyperspectral Fusion Imaging** <br>
+    **Nan Wang**, Siqi Jia, Renwei Dian*, Shutao Li <br>
+    **IEEE Transactions on Multimedia (IEEE TMM, accepted)**, 2026. <br>
+    [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/Nan-Wong98/Physics-Informed-Degradation-Kernel-Estimation-for-Mosaic-Based-Hyperspectral-Fusion-Imaging)
+
+* ✨ **An Unsupervised Deep Unfolded Network for Mosaic-based Hyperspectral Fusion Imaging** <br>
+    **Nan Wang**, Aiping Mo, Renwei Dian*, Jujue Wei*, Shutao Li <br>
+    **IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)**, 2026. <br>
+    [![Paper](https://img.shields.io/badge/Paper-TGRS_2022-blue)](https://ieeexplore.ieee.org/abstract/document/11614557) [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/Nan-Wong98/An-Unsupervised-Deep-Unfolded-Network-for-Mosaic-based-Hyperspectral-Fusion-Imaging)
 
 * ✨ **Convolution-Embedded Vision Transformer With Elastic Positional Encoding for Pansharpening** <br>
-    **Nan Wang<sup>✝</sup>**, Xiangjun Meng, Xiangchao Meng*, Feng Shao* <br>
+    **Nan Wang**, Xiangjun Meng, Xiangchao Meng*, Feng Shao* <br>
     **IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)**, vol. 60, Dec. 2022. <br>
-    [![Paper](https://img.shields.io/badge/Paper-TGRS_2022-blue)](https://ieeexplore.ieee.org/abstract/document/9759519) 
+    [![Paper](https://img.shields.io/badge/Paper-TGRS_2026-blue)](https://ieeexplore.ieee.org/abstract/document/9759519)
 
 * ✨ **Vision Transformer for Pansharpening (ESI Highly Cited)** <br>
-    Xiangchao Meng<sup>✝</sup>, **Nan Wang**, Feng Shao*, Shutao Li <br>
+    Xiangchao Meng, **Nan Wang**, Feng Shao*, Shutao Li <br>
     **IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)**, vol. 60, Apr. 2022. <br>
     [![Paper](https://img.shields.io/badge/Paper-TGRS_2022-blue)](https://ieeexplore.ieee.org/abstract/document/9759519) [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/Nan-Wong98/TransPan-pytorch)
 
+* ✨ **Semi-Supervised Flow Matching for Mosaiced and Panchromatic Fusion Imaging** <br>
+  Peiming Luo, **Nan Wang**, Litong Liu, Jiahan Huang, Chenxu Wu, Renwei Dian*, Junming Hou* <br>
+  **ACM MM**, 2026. <br>
+  [![Paper](https://img.shields.io/badge/Paper-arxiv-blue)](https://arxiv.org/abs/2604.20128)
 ---

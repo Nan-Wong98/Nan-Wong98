@@ -46,6 +46,11 @@
     **IEEE Transactions on Image Processing (TIP)**, vol. 35, pp. 1246-1260, Jan. 2026. <br>
     [![Paper](https://img.shields.io/badge/Paper-TIP_2026-blue)](https://ieeexplore.ieee.org/abstract/document/11367377)  [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/Nan-Wong98/Equivariant-High-Resolution-Hyperspectral-Imaging-via-Mosaiced-and-PAN-Image-Fusion)
 
+* ✨ **Unsupervised Variational Posterior Learning for Mosaic-Based Hyperspectral Fusion Imaging** <br>
+    **Nan Wang**, Renwei Dian*, Anjing Guo, Shutao Li, Jinyang Liu <br>
+    **IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS, accepted)**, 2026. <br>
+  [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/Nan-Wong98/Unsupervised-Variational-Posterior-Learning-for-Mosaic-Based-Hyperspectral-Fusion-Imaging)
+
 * ✨ **Physics-Informed Degradation Kernel Estimationfor Mosaic-Based Hyperspectral Fusion Imaging** <br>
     **Nan Wang**, Siqi Jia, Renwei Dian*, Shutao Li <br>
     **IEEE Transactions on Multimedia (IEEE TMM, accepted)**, 2026. <br>
@@ -53,7 +58,7 @@
 
 * ✨ **An Unsupervised Deep Unfolded Network for Mosaic-based Hyperspectral Fusion Imaging** <br>
     **Nan Wang**, Aiping Mo, Renwei Dian*, Jujue Wei*, Shutao Li <br>
-    **IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)**, 2026. <br>
+    **IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)**, vol. 64, July 2026. <br>
     [![Paper](https://img.shields.io/badge/Paper-TGRS_2022-blue)](https://ieeexplore.ieee.org/abstract/document/11614557) [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/Nan-Wong98/An-Unsupervised-Deep-Unfolded-Network-for-Mosaic-based-Hyperspectral-Fusion-Imaging)
 
 * ✨ **Convolution-Embedded Vision Transformer With Elastic Positional Encoding for Pansharpening** <br>

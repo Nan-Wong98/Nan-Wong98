@@ -48,13 +48,18 @@
 
 * ✨ **Unsupervised Variational Posterior Learning for Mosaic-Based Hyperspectral Fusion Imaging** <br>
     **Nan Wang**, Renwei Dian*, Anjing Guo, Shutao Li, Jinyang Liu <br>
-    **IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS, accepted)**, 2026. <br>
-  [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/Nan-Wong98/Unsupervised-Variational-Posterior-Learning-for-Mosaic-Based-Hyperspectral-Fusion-Imaging)
+    **IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)**, 2026. <br>
+  [![Paper](https://img.shields.io/badge/Paper-TNNLS_2026-blue)](https://ieeexplore.ieee.org/document/11686446)  [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/Nan-Wong98/Unsupervised-Variational-Posterior-Learning-for-Mosaic-Based-Hyperspectral-Fusion-Imaging)
 
 * ✨ **Physics-Informed Degradation Kernel Estimationfor Mosaic-Based Hyperspectral Fusion Imaging** <br>
     **Nan Wang**, Siqi Jia, Renwei Dian*, Shutao Li <br>
-    **IEEE Transactions on Multimedia (IEEE TMM, accepted)**, 2026. <br>
-    [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/Nan-Wong98/Physics-Informed-Degradation-Kernel-Estimation-for-Mosaic-Based-Hyperspectral-Fusion-Imaging)
+    **IEEE Transactions on Multimedia (IEEE TMM)**, 2026. <br>
+    [![Paper](https://img.shields.io/badge/Paper-TMM_2026-blue)](https://ieeexplore.ieee.org/document/11685419)  [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/Nan-Wong98/Physics-Informed-Degradation-Kernel-Estimation-for-Mosaic-Based-Hyperspectral-Fusion-Imaging)
+
+* ✨ **Imaging-Informed Progressive Fusion for Mosaic-based Hyperspectral Image Reconstruction** <br>
+    **Nan Wang**, Fangshuo Xu, Renwei Dian*, Shutao Li <br>
+    **Information Fusion (IF)**, 2026. <br>
+    [![Paper](https://img.shields.io/badge/Paper-IF_2026-blue)](https://www.sciencedirect.com/science/article/pii/S1566253526006500)  [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/TurnXu/imaging-informed-progressive-fusion-hsi-reconstruction/tree/main)
 
 * ✨ **An Unsupervised Deep Unfolded Network for Mosaic-based Hyperspectral Fusion Imaging** <br>
     **Nan Wang**, Aiping Mo, Renwei Dian*, Jujue Wei*, Shutao Li <br>
